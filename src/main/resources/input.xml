@@ -3,11 +3,11 @@
     <book>
         <title>Spring Boot in Action</title>
         <author>Craig Walls</author>
-        <year>2016</year>
+        <year>2022</year>
     </book>
     <book>
         <title>Java: The Complete Reference</title>
         <author>Herbert Schildt</author>
-        <year>2018</year>
+        <year>2023</year>
     </book>
 </books>
